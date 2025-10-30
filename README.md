@@ -57,17 +57,7 @@ O projeto demonstra conhecimentos em **HTML, CSS, JavaScript e Bootstrap**, apli
 
 ## 🔹 Demonstração Visual
 
-**Página Inicial – Efeito Escrever**  
-![Efeito Escrever](img/efeito-escrever.gif)
-
-**Seção Sobre Nós**  
-![Sobre Nós](img/img.jpg)
-
-**Galeria de Depoimentos – Modal**  
-![Galeria Depoimentos](img/galeria.gif)
-
-**Cursos e Teste Vocacional**  
-![Cursos](img/prog1.jpg)
+marinabulhosa.github.io/sitejs/
 
 ---
 
