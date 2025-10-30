@@ -40,12 +40,12 @@ O projeto demonstra conhecimentos em **HTML, CSS, JavaScript e Bootstrap**, apli
 ## 🔹 Estrutura do Projeto
 
 /programe-se
-│
-├── index.html # Página principal
-├── css/
-│ ├── estilo.css # Estilos personalizados
-│ ├── bootstrap.css
-│ └── bootstrap.min.css
+│                                     
+├── index.html # Página principal                                
+├── css/                               
+│ ├── estilo.css # Estilos personalizados                                                        
+│ ├── bootstrap.css                                                               
+│ └── bootstrap.min.css                                                
 ├── js/
 │ ├── principal.js # Scripts de efeitos (escrever, galeria, parallax)
 │ ├── bootstrap.js
@@ -68,8 +68,6 @@ O projeto demonstra conhecimentos em **HTML, CSS, JavaScript e Bootstrap**, apli
 
 **Cursos e Teste Vocacional**  
 ![Cursos](img/prog1.jpg)
-
-> Obs: Os GIFs acima são apenas representativos. Substitua pelos GIFs gerados com a captura do efeito animado real.
 
 ---
 
