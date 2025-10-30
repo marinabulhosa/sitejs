@@ -57,7 +57,7 @@ O projeto demonstra conhecimentos em **HTML, CSS, JavaScript e Bootstrap**, apli
 
 ## 🔹 Demonstração Visual
 
-marinabulhosa.github.io/sitejs/
+[Site] (https://marinabulhosa.github.io/sitejs/)
 
 ---
 
