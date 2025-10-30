@@ -39,18 +39,18 @@ O projeto demonstra conhecimentos em **HTML, CSS, JavaScript e Bootstrap**, apli
 
 ## 🔹 Estrutura do Projeto
 
-/programe-se
-│                                     
-├── index.html # Página principal                                
-├── css/                               
-│ ├── estilo.css # Estilos personalizados                                                        
-│ ├── bootstrap.css                                                               
-│ └── bootstrap.min.css                                                
-├── js/
-│ ├── principal.js # Scripts de efeitos (escrever, galeria, parallax)
-│ ├── bootstrap.js
-│ └── jquery-3.6.0.min.js
-└── img/ # Imagens do site (logo, fundo, galeria)
+/programe-se                                                                                                                                                                 
+│                                                                                                                                                                                                                                                         
+├── index.html # Página principal                                                                                                                                          
+├── css/                                                                                                                                         
+│ ├── estilo.css # Estilos personalizados                                                                                                                                                                  
+│ ├── bootstrap.css                                                                                                                                                                         
+│ └── bootstrap.min.css                                                                                                                                                          
+├── js/                                                                                                          
+│ ├── principal.js # Scripts de efeitos (escrever, galeria, parallax)                                                                                                          
+│ ├── bootstrap.js                                                                                                          
+│ └── jquery-3.6.0.min.js                                                                                                          
+└── img/ # Imagens do site (logo, fundo, galeria)                                                                                                          
 
 
 ---
